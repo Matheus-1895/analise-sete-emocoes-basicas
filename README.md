@@ -1,5 +1,3 @@
-# analise-sete-emocoes-basicas
-
 # Análise das Sete Emoções Básicas com DeepFace
 
 ## Descrição
@@ -156,7 +154,7 @@ O projeto permitiu avaliar o desempenho da biblioteca DeepFace no reconhecimento
 **Matheus Rodrigues Lima Ribeiro**
 
 * Engenharia da Computação
-* Python | SQL | Excel | Inteligência Artificial
+* Python | Inteligência Artificial
 
 Projeto acadêmico desenvolvido utilizando Python e DeepFace.
 
